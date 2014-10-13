@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<style>
+head{background-color: #D0D0D0;}
+body {
+    background-color: #D0D0D0;
+}
+div{
+    background-color: #D0D0D0;
+}
+h1 {
+    width: 1000px;
+    padding: 25px;
+    border: 12px solid black;
+    margin: 20px;
+    background-color: #3366FF;
+    text-align: center;
+}
+h2{
+    padding-left: 360px;
+    line-height: 70%;
+    text-decoration: underline;
+}
+h4{
+    padding-left: 365px;
+    line-height: 0%;
+}
+h3{}
+
+p {
+    padding-left: 368px;
+}
+
+
+</style>
+</head>
+<body>
+
+</body>
+</html>
